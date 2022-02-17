@@ -1,1 +1,7 @@
-
+START
+INPUT A and B 
+LET C = A*A
+LET D = B*B
+LET Sum = C+D
+PRINT Sum
+END
